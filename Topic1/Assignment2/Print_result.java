@@ -9,10 +9,10 @@ public class Print_result {
         result3=f+g*h/b;
         result4=h+i/j*k-b%j;
 
-        System.out.println(a+" "+b+" "+" "+c+" " +"Result1="+result1);
-        System.out.println(d+" "+e+" "+" "+"Result2="+result2);
-        System.out.println(f+" "+g+" "+h+" "+b+" "+"Results3= "+result3);
-        System.out.println("Results4="+result4);
+        System.out.println("-5 + 8 * 6 = "+result1);
+        System.out.println("(55+9) % 9 = "+result2);
+        System.out.println("20 + -3*5 / 8 = "+result3);
+        System.out.println("5 + 15 / 3 * 2 - 8 % 3 = "+result4);
 
     }
 }
